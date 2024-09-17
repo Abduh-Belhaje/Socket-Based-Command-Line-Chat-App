@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Client {
     private static final int PORT = 3334;
-    private static final String HOST = "196.117.166.255";
+    private static final String HOST = "ServerHost";
 
     public static void main(String[] args) {
         try (Socket clientSocket = new Socket(HOST, PORT);
