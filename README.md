@@ -42,5 +42,6 @@ The application supports the following commands:
 To run the Socket-Based Command Line Chat App, follow these steps:
 
 1. **Clone the Repository**:
+   
    ```sh
    git clone https://github.com/Abduh-Belhaje/Socket-Based-Command-Line-Chat-App.git
